@@ -50,4 +50,3 @@ HabitHub is optimized for effortless deployment on platforms like Vercel and Net
 Simply connect this repository to your Vercel account, leave the default build settings (`npm run build`), and hit deploy!
 
 ---
-*Built with ❤️ for consistency.*
