@@ -43,10 +43,11 @@ Make sure you have Node.js installed on your machine.
    ```bash
    npm run dev
    ```
-5. Open your browser to `http://localhost:5173` to view the app!
+5. Open your browser to `https://habithub1.netlify.app/` to view the app!
 
 ## 🌍 Deployment
 HabitHub is optimized for effortless deployment on platforms like Vercel and Netlify. 
 Simply connect this repository to your Vercel account, leave the default build settings (`npm run build`), and hit deploy!
 
 ---
+
